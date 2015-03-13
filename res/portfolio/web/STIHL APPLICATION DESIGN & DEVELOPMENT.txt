@@ -1,0 +1,11 @@
+OVERVIEW
+
+STIHL is an international corporation that produces the number one selling brand of chainsaws and a full line of outdoor power equipment including blowers, trimmers, brushcutters, and construction tools. The STIHL name has stood for revolutionary technology and innovative ideas ever since the firm was founded, and is best known round the world today for quality and service. STIHL products help people in more than 160 countries, making them the world¡¯s leading chain saw brand.
+The company approached mediaBOOM to design and develop an application whereby dealers can virtually design their STIHL showroom. Dealers can view galleries of STIHL products including accessories, signs, power equipment, and more, and apply them to their customized showroom.
+
+...........................................................
+FEATURES
+Custom Showcase Display Builder
+User Authentication System
+Product Gallery
+...........................................................

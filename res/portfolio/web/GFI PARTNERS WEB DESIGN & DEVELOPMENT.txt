@@ -1,0 +1,14 @@
+OVERVIEW
+
+GFI Partners is a full service real estate advisor based in Boston, MA. Since 1997 GFI has completed over 100 transactions valued over $900 million. GFI¡¯s portfolio spans the U.S. and is focused on opportunistic, value-added development projects.
+
+The company approached mediaBOOM to design and develop a responsive website that is clean, slick, modern, and conveys a sense of professionalism and luxury to its viewers. The website features full screen photography, subtle animations, and an interactive property map to clearly showcase all the property locations.
+
+
+...........................................................
+FEATURES
+CSS3 Animation
+Responsive Design
+Web Design
+Web Development
+...........................................................

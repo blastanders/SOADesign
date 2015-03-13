@@ -1,0 +1,12 @@
+OVERVIEW
+
+SOAdesign partnered with Ronin Advertising to create an interactive building experience for one of Boston's newest ultra luxury high-rises, Millennium Tower Boston, a 625-foot skyscraper that will feature condominiums ranging in price from $850,000 to the $37.5 million penthouse suite. 
+
+The interactive experience was installed in the Millennium Tower Boston Sales Center and allows potential new residents to explore the tower in 3D. Visitors can view floorplans, 3D representations of each unit, and views from each level of the building.
+
+...........................................................
+FEATURES
+AngularJS
+HTML5 Video
+CSS3 Animations
+...........................................................
